@@ -6,6 +6,8 @@ problem
 
 ## Solution
 
+*Note: The solution is now modified to run the case being discussed in class on 31/10/2018*
+
 The solution can be found with explanatory notes [here](https://github.com/samvram/JobShopScheduling/blob/master/Job%20Shop%20Scheduling.ipynb).
 You can also find the source only [here](https://github.com/samvram/JobShopScheduling/blob/master/JobShop.py).
 
